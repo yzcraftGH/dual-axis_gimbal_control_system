@@ -1,0 +1,3 @@
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/protocol.c:64:6:logic_protocol_init	1
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/protocol.c:69:6:logic_protocol_task	26
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/protocol.c:104:13:logic_protocol_get_last_cmd	1

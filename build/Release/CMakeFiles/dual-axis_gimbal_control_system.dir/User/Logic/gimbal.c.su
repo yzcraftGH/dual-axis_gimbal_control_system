@@ -1,0 +1,5 @@
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/gimbal.c:44:6:logic_gimbal_init	8	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/gimbal.c:56:6:logic_gimbal_set_angle	16	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/gimbal.c:71:6:logic_gimbal_center	8	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/gimbal.c:77:9:logic_gimbal_get_target_angle	0	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/gimbal.c:88:6:logic_gimbal_task	24	static

@@ -1,0 +1,9 @@
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/attitude.c:51:6:logic_attitude_init	3
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/attitude.c:79:6:logic_attitude_task	4
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/attitude.c:121:9:logic_attitude_calibrate	3
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/attitude.c:131:7:logic_attitude_get_pitch	1
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/attitude.c:136:7:logic_attitude_get_roll	1
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/attitude.c:142:7:logic_attitude_get_pitch_rate	1
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/attitude.c:147:7:logic_attitude_get_roll_rate	1
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/attitude.c:152:9:logic_attitude_is_ok	1
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/attitude.c:158:6:logic_attitude_reset	1

@@ -1,0 +1,6 @@
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/track.c:82:6:logic_track_init	2
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/track.c:100:6:logic_track_reset	2
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/track.c:117:6:logic_track_task	16
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/track.c:218:15:logic_track_get_state	1
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/track.c:223:6:logic_track_get_level	3
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/track.c:238:13:track_step_gimbal_axis	6

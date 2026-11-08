@@ -1,0 +1,5 @@
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Bsp/bsp_gpio.c:45:6:bsp_gpio_init	16	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Bsp/bsp_gpio.c:53:6:bsp_led_on	16	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Bsp/bsp_gpio.c:59:6:bsp_led_off	16	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Bsp/bsp_gpio.c:65:6:bsp_led_toggle	16	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Bsp/bsp_gpio.c:71:17:bsp_key_read	8	static

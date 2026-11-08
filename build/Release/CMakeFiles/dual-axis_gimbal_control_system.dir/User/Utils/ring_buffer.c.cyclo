@@ -1,0 +1,5 @@
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Utils/ring_buffer.c:16:6:ring_buffer_init	2
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Utils/ring_buffer.c:24:9:ring_buffer_push	3
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Utils/ring_buffer.c:47:9:ring_buffer_pop	4
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Utils/ring_buffer.c:73:10:ring_buffer_count	2
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Utils/ring_buffer.c:89:6:ring_buffer_clear	2

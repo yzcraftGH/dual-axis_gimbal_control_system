@@ -1,0 +1,8 @@
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/protocol.c:64:6:logic_protocol_init	4	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/protocol.c:69:6:logic_protocol_task	64	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/protocol.c:104:13:logic_protocol_get_last_cmd	4	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/protocol.c:110:16:protocol_parse	40	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/protocol.c:172:13:protocol_handle	16	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/protocol.c:230:13:protocol_send_ok	8	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/protocol.c:235:13:protocol_send_err	8	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/protocol.c:240:13:protocol_send_status	32	static

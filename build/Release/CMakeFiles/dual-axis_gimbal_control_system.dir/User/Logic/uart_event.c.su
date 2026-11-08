@@ -1,0 +1,3 @@
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/uart_event.c:23:6:logic_uart_event_send_key_short	0	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/uart_event.c:28:6:logic_uart_event_send_key_long	0	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Logic/uart_event.c:33:6:logic_uart_event_send_mode	0	static

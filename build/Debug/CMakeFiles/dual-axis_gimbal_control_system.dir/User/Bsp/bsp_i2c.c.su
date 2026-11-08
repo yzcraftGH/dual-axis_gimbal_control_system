@@ -1,0 +1,3 @@
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Bsp/bsp_i2c.c:17:9:bsp_i2c_write_reg	32	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Bsp/bsp_i2c.c:26:9:bsp_i2c_read_reg	32	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Bsp/bsp_i2c.c:37:9:bsp_i2c_is_device_ready	16	static

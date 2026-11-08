@@ -1,0 +1,4 @@
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Device/dev_mpu6050.c:31:9:dev_mpu6050_init	16	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Device/dev_mpu6050.c:63:9:dev_mpu6050_read_raw	32	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Device/dev_mpu6050.c:84:9:dev_mpu6050_calibrate	56	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Device/dev_mpu6050.c:118:6:dev_mpu6050_get_offset	16	static

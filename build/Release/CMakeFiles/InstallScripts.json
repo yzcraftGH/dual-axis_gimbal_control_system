@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/build/Release/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

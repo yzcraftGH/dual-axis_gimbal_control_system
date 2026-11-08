@@ -1,0 +1,2 @@
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Device/dev_servo.c:24:6:dev_servo_init	8	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Device/dev_servo.c:30:6:dev_servo_set_angle	0	static

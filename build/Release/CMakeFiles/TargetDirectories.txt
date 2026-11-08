@@ -1,0 +1,3 @@
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/build/Release/CMakeFiles/dual-axis_gimbal_control_system.dir
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/build/Release/CMakeFiles/edit_cache.dir
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/build/Release/CMakeFiles/rebuild_cache.dir

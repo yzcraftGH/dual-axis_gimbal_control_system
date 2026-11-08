@@ -1,0 +1,5 @@
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Bsp/bsp_uart.c:26:6:bsp_uart_init	1
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Bsp/bsp_uart.c:32:6:bsp_uart_send	2
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Bsp/bsp_uart.c:38:6:bsp_uart_send_byte	1
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Bsp/bsp_uart.c:43:9:bsp_uart_read_line	10
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Bsp/bsp_uart.c:86:6:HAL_UART_RxCpltCallback	2

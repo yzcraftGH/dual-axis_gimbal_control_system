@@ -1,0 +1,4 @@
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Utils/delay.c:18:6:delay_start	16	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Utils/delay.c:26:9:delay_is_expired	24	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Utils/delay.c:39:9:delay_is_running	16	static
+D:/vs_code_STM32_workspace/CLOUDHOUSE_project/dual-axis_gimbal_control_system/User/Utils/delay.c:47:6:delay_cancel	16	static
